@@ -1,0 +1,3 @@
+//fromx	fromy	tox	toy	effect
+7	0	46	1	0
+46	0	7	1	0
